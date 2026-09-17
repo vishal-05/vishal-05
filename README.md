@@ -83,10 +83,10 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**nyc-taxi-etl-pipeline**](https://github.com/vishal-05/nyc-taxi-etl-pipeline) | End-to-end Medallion (Bronze→Silver→Gold) ETL pipeline on 1M+ monthly NYC taxi trip records with PySpark data-quality validation, Unity Catalog governance, and fully automated Databricks Workflows orchestration | Databricks, PySpark, Azure Data Lake, Delta Lake |
+| [**steam-analytics-pipeline**](https://github.com/vishal-05/steam-analytics-pipeline) | An end-to-end, open-source data engineering pipeline that pulls live data from the Steam Web API and Steam Store API, processes it through a Medallion architecture (Bronze → Silver → Gold), models it into a dimensional star schema, and serves it to Power BI for analysis — orchestrated entirely with Apache Airflow running locally via Docker. |
 | [**MakeMyTripCapstone**](https://github.com/vishal-05/MakeMyTripCapstone) | Cross-platform BDD test automation framework covering MakeMyTrip's web, Android, and API layers, with Maven profiles per platform and auto-generated ExtentReports | Java, Selenium, Appium, Cucumber, REST Assured |
-| [**EaseMyTripInterface**](https://github.com/vishal-05/EaseMyTripInterface) | Test automation project targeting the EaseMyTrip booking flow | Java, Selenium |
 | [**RESTAURANT**](https://github.com/vishal-05/RESTAURANT) | Static, multi-page restaurant website with home, menu, about, contact, and reservation pages | HTML, CSS, Bootstrap 4 |
-| [**Greendzine_assignment_Vishal**](https://github.com/vishal-05/Greendzine_assignment_Vishal) | Take-home coding assignment | JavaScript |
+
 
 ---
 
@@ -106,16 +106,14 @@ Optimized front-end delivery with TypeScript and advanced CSS, reducing runtime 
 ### 🎓 Certifications
 
 - **Databricks Certified Data Engineer Associate**
-- **The Complete 2026 Web Development** (certification course)
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishal-05&show_icons=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-05&layout=compact" />
-</p>
+</p> -->
 
 ---
 
