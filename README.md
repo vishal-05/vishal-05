@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer | Data Engineer | SDET — building & testing data pipelines and full-stack apps</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vishal-basawakumar-desai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:vishaldesai0509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://vishal-portfolio-opal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -14,9 +14,9 @@
 - 🎓 MS in Computer Science, **Pace University**, New York (Expected May 2027)
 - 🎓 BTech in Computer Science & Engineering, **REVA University**, Bengaluru (2024)
 - 💼 Currently: **Application Developer Intern** @ Bronx DA Office, New York City
-- 🔭 Background spans **data engineering** (Databricks/PySpark/Azure) and **test automation / SDET** (Selenium/Appium/Playwright)
+- 🔭 Background spans **data engineering** (Databricks/PySpark/Azure) and **software developer** 
 - 🌱 Exploring AI-assisted development with GitHub Copilot, Claude Code, and Cursor
-- 📫 Reach me at **vishaldesai0509@gmail.com**
+
 
 ---
 
