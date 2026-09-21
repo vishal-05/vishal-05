@@ -106,6 +106,7 @@ Optimized front-end delivery with TypeScript and advanced CSS, reducing runtime 
 ### 🎓 Certifications
 
 - **Databricks Certified Data Engineer Associate**
+- **Microsoft Certified: Fabric Data Engineer Associate**
 
 ---
 
