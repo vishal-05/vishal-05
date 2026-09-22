@@ -13,9 +13,7 @@
 
 - 🎓 MS in Computer Science, **Pace University**, New York (Expected May 2027)
 - 🎓 BTech in Computer Science & Engineering, **REVA University**, Bengaluru (2024)
-- 💼 Currently: **Application Developer Intern** @ Bronx DA Office, New York City
 - 🔭 Background spans **data engineering** (Databricks/PySpark/Azure) and **software developer** 
-- 🌱 Exploring AI-assisted development with GitHub Copilot, Claude Code, and Cursor
 
 
 ---
